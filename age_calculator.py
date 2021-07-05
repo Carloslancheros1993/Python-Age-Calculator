@@ -67,4 +67,3 @@ daysB.grid(row=2, column=0, padx=5, pady=5, columnspan=3)
 scndB.grid(row=2, column=3, padx=5, pady=5, columnspan=3)
 
 App.mainloop()
-
